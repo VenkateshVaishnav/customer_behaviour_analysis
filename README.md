@@ -51,6 +51,7 @@ Summarizing insights, findings, and business recommendations
 Creating a presentation deck suitable for stakeholders
 
 🛠️ Project Workflow
+
 1️⃣ Open the Python Notebook
 
 Customer_Shopping_Behavior_Analysis.ipynb contains:
